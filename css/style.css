@@ -70,3 +70,21 @@ font-size: 14px;
 .row-sm-6-text{
     text-align: center;
 }
+/* .col-body{
+    display: flex;
+} */
+.row-sm-6{
+    display: flex;
+  align-items:flex-end;
+    justify-content: space-evenly;
+    align-self: center;
+}
+/* .col-sm-6-new{
+    background-color: #000;
+    color: var(--bs-gray-100);
+    width: 300px;
+    text-align: center;
+    margin-top: -300px;
+    margin-left: 300px;
+    z-index: -1;
+} */
