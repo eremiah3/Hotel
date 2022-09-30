@@ -103,9 +103,12 @@ font-size: 14px;
     align-self: center;
 }
 
-.heading-text{
-    text-align: center;
-    background-color:#a9a9a9;
+h3{
+    margin-top: 5px;
+}
+.hope{
+    background-color: whitesmoke;
+    height: 100px;
 }
 .email{
     width: 300px;
@@ -135,4 +138,35 @@ font-size: 14px;
 .con{
     text-align: center;
   
+}
+.container-class{
+    text-align: center;
+    margin-top: 50px;
+}
+.con{
+    display: flex;
+ /* margin-left: 500px; */
+ justify-content: space-between;
+}
+.pe{
+    text-align: center;
+    background-color: #212529;
+    color: #fff;
+}
+.tact{
+    font-size: 50px
+}
+.footer{
+    margin-top: 40px;
+}
+.blank{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+/* .level{
+    width: 200px;
+} */
+.hp{
+    margin-left: 7px;
 }
